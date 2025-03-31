@@ -23,8 +23,7 @@
 7. Engagement Strategies
   Tech Experts- Foster discussions through forums, webinars, or community events that allow for deep dives into technical topics.
   Regular Folks- Use engaging visuals, videos, and interactive content to capture interest and facilitate learning in a more approachable manner.
-##  2. What are some strategies to tailor your content to different audience types?
-Strategies 
+##  2. What are some strategies to tailor your content to different audience types? 
 1. Audience Segmentation
   Identify Segments- Divide your audience into categories based on  expertise level, demographics, interests, and needs.
 Create Personas- Develop detailed personas for each segment to understand their motivations, pain points, and preferences.
